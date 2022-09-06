@@ -1,2 +1,2 @@
 # STM32F103RCT6_Project
-这是大三上学期学习32的项目工程
+## 我的基本配置：JLINK下载，STM32F103RCT6，STM32CubeMx
